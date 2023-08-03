@@ -1,4 +1,0 @@
-$ curl -X POST api/data_views/default
-{
-  "data_view_id": "..."
-}

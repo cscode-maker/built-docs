@@ -1,1 +1,0 @@
-DELETE kbn:/api/alerting/rule/<rule_id>

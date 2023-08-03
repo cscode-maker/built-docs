@@ -1,1 +1,0 @@
-esusers useradd kibana4-server -r kibana4_server -p password

@@ -1,1 +1,0 @@
-curl -H "es-shield-runas-user: jacknich"  -u es_admin -XGET 'http://localhost:9200/'

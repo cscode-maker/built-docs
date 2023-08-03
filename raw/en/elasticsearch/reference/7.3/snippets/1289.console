@@ -1,4 +1,0 @@
-GET /twitter/_mget
-{
-    "ids" : ["1", "2"]
-}

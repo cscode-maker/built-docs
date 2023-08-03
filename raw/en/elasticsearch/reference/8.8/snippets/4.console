@@ -1,6 +1,0 @@
-GET customer/_search
-{
-  "query" : {
-    "match" : { "firstname": "Jennifer" }
-  }
-}

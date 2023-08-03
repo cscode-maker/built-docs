@@ -1,4 +1,0 @@
-POST _ml/trained_models/model2/deployment/_infer
-{
-	"docs": [{"text_field": "The movie was awesome!!"}]
-}

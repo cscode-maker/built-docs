@@ -1,1 +1,0 @@
-esusers useradd agent-user -r remote_marvel_agent -p password
