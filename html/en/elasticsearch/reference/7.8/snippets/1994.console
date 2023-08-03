@@ -1,1 +1,0 @@
-GET /_all/_search?q=user.id:kimchy

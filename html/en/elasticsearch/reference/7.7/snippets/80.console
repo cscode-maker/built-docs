@@ -1,8 +1,0 @@
-GET /user_logs*/_search
-{
-  "query": {
-    "match": {
-      "message": "login successful"
-    }
-  }
-}

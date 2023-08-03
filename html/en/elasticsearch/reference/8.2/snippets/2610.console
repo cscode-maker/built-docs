@@ -1,4 +1,0 @@
-POST /_security/profile/_suggest
-{
-  "name": "jack"
-}

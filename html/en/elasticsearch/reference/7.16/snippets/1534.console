@@ -1,6 +1,0 @@
-PUT _cluster/_settings
-{
-  "persistent": {
-    "cluster.routing.allocation.enforce_default_tier_preference": true
-  }
-}
